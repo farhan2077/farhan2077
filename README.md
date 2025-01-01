@@ -3,6 +3,6 @@ Hi there 👋
   
 It's **Farhan** from 🇧🇩 
 
-[website](https://farhanbinamin.com) ⋅ [projects](https://farhanbinamin.com/projects)
+[website](https://farhanbinamin.com) ⋅ [blog](https://farhanbinamin.com/blog) ⋅ [projects](https://farhanbinamin.com/projects)
 </div>
 
